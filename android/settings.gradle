@@ -1,0 +1,3 @@
+rootProject.name = 'alfanous_mobile_interfaces'
+
+include ':app'
