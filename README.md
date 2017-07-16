@@ -3,14 +3,14 @@ Alfanous Mobile Interfaces
 
 ## Requirements
 
-1. [Nodejs](https://nodejs.org/en/download/) v( 8.* or 6.* ).
-2. [Node Version Manager](https://github.com/creationix/nvm)
-2. [React Native](http://facebook.github.io/react-native/docs/getting-started.html) (follow iOS and Android guides).
-3. [Redux](http://redux.js.org/)  is a predictable state container for JavaScript apps.
+1. [Nodejs](https://nodejs.org/en/download/) v( 8.* ).
+2. [Node Version Manager](https://github.com/creationix/nvm) to switch between node version (optional).
+3. [React Native](http://facebook.github.io/react-native/docs/getting-started.html) (follow iOS and Android guides).
+4. [Alfanous API](https://github.com/Alfanous-team/alfanous-api)
 
 ## Setup
 
-1. **Install dependencies** (npm v3+ if you are using node 8.* use npm 5.* ):
+1. **Install dependencies** (npm 5.* or [yarn](https://yarnpkg.com/en/))
 
   ```
   $ npm install
@@ -36,3 +36,12 @@ In a separate terminal window run:
   ```
   $ react-native start
   ```
+## How to contribute
+Do you want to contribute with alfanous_mobile_interfaces development? Great! Please read more details at [CONTRIBUTING.md](https://github.com/LBenzahia/alfanous_mobile_interfaces/blob/develop/CONTRIBUTING.md).
+
+## Copyright
+Copyright (C) 2010-2017 [Alfanous](https://github.com/Alfanous-team/alfanous) Project.
+
+For license information, see [LICENSE.md(https://github.com/LBenzahia/alfanous_mobile_interfaces/blob/develop/LICENSE.md).
+
+[AUTHORS.md](https://github.com/LBenzahia/alfanous_mobile_interfaces/blob/develop/AUTHORS.md) have a list of everyone contributed to Alfanous Mobile Interfaces.
