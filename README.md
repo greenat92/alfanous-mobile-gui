@@ -42,6 +42,6 @@ Do you want to contribute with alfanous_mobile_interfaces development? Great! Pl
 ## Copyright
 Copyright (C) 2010-2017 [Alfanous](https://github.com/Alfanous-team/alfanous) Project.
 
-For license information, see [LICENSE.md(https://github.com/LBenzahia/alfanous_mobile_interfaces/blob/develop/LICENSE.md).
+For license information, see [LICENSE](https://github.com/LBenzahia/alfanous_mobile_interfaces/blob/develop/LICENSE).
 
 [AUTHORS.md](https://github.com/LBenzahia/alfanous_mobile_interfaces/blob/develop/AUTHORS.md) have a list of everyone contributed to Alfanous Mobile Interfaces.
