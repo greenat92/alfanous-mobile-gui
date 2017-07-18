@@ -1,4 +1,4 @@
-Alfanous_mobile_interfaces Authors
+Alfanous-mobile-gui Authors
 ==================================
 
 ## Original Authors

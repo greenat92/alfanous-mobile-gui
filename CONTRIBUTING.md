@@ -1,4 +1,4 @@
-# Contributing to Alfanous_Mobile_Interfaces
+# Contributing to alfanous-mobile-gui
 
 Hi! Thanks for your interest in contributing to [Alfanous](http://www.alfanous.org/).
 In this document we'll try to summarize everything that you need to know to
@@ -77,7 +77,7 @@ the desired feature.
 
 [Our Channel](https://gitter.im/Alfanous-team/alfanous)
 
-Please feel free to contact us through the [alfanous_mobile_interfaces maintainer](https://github.com/LBenzahia/alfanous_mobile_interfaces/blob/develop/AUTHORS.md#original-authors) mail list if
+Please feel free to contact us through the [alfanous-mobile-gui maintainer](https://github.com/LBenzahia/alfanous-mobile-gui/blob/develop/AUTHORS.md#original-authors) mail list if
 you have any questions or suggestions. Every contribution is very welcome!
 
 **Happy hacking! (;**

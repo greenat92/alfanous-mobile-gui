@@ -16,11 +16,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React Native!"
 
-@interface alfanous_mobile_interfacesTests : XCTestCase
+@interface AlfanousAppTests : XCTestCase
 
 @end
 
-@implementation alfanous_mobile_interfacesTests
+@implementation AlfanousAppTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {
