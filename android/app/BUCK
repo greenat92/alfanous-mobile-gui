@@ -45,12 +45,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.alfanous_mobile_interfaces",
+    package = "com.alfanousapp",
 )
 
 android_resource(
     name = "res",
-    package = "com.alfanous_mobile_interfaces",
+    package = "com.alfanousapp",
     res = "src/main/res",
 )
 

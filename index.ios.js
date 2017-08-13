@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-export default class alfanous_mobile_interfaces extends Component {
+export default class AlfanousApp extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('alfanous_mobile_interfaces', () => alfanous_mobile_interfaces);
+AppRegistry.registerComponent('AlfanousApp', () => AlfanousApp);

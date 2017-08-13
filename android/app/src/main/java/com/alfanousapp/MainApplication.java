@@ -1,4 +1,4 @@
-package com.alfanous_mobile_interfaces;
+package com.alfanousapp;
 
 import android.app.Application;
 
