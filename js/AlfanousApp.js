@@ -4,17 +4,37 @@ import React, { Component } from 'react';
 import {
   StyleSheet,
   Text,
-  View
+  View,
+  Platform
 } from 'react-native';
 export default class AlfanousApp extends Component {
   render() {
-    return (
-      <View style={styles.container}>
-        <Text style={styles.welcome}>
-          Welcome to Alfanous App!
-        </Text>
-      </View>
-    );
+
+    if (Platform.OS === 'android'){
+       return(
+         <View style={styles.container}>
+           <Text style={styles.welcome}>
+             Welcome to Alfanous android App!
+           </Text>
+           <Text style={styles.welcome}>
+             مرحبا تطبيق الفانـــوس
+           </Text>
+         </View>
+       );
+    }else{
+      return(
+        <View style={styles.container}>
+          <Text style={styles.welcome}>
+            Welcome to Alfanous ios App!
+          </Text>
+          <Text style={styles.welcome}>
+            مرحبا تطبيق الفانـــوس
+          </Text>
+        </View>
+
+      );
+    }
+
   }
 }
 
